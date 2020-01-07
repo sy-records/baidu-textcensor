@@ -2,7 +2,7 @@
 
 namespace Luffy\TextCensor;
 
-class AipBase
+class Core
 {
     /**
      * 获取access token url
