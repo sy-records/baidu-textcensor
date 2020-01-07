@@ -1,0 +1,24 @@
+{
+  "name": "sy-records/baidu-textcensor",
+  "description": "baidu textcensor",
+  "keywords": ["baidu","ai","textcensor"],
+  "type": "library",
+  "homepage": "https://github.com/sy-records/baidu-textcensor",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Luffy",
+      "email": "52o@qq52o.cn",
+      "homepage": "https://qq52o.me"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Luffy\\TextCensor\\": "src/"
+    }
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "sort-packages": true
+  }
+}
