@@ -26,6 +26,8 @@ $secretKey = "";
 
 $client = new \Luffy\TextCensor\Core($appId, $apiKey, $secretKey);
 $res = $client->textCensorUserDefined("沈唁志博客：https://qq52o.me"); //待审核文本字符串
+
+//具体参数说明见：https://ai.baidu.com/ai-doc/ANTIPORN/Nk3h6xbb2
 var_dump($res);
 ```
 
