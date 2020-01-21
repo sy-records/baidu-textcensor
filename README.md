@@ -36,9 +36,15 @@ var_dump($res);
 1. AppID、API Key、Secret Key在百度Ai控制台的 [产品服务 / 内容审核 - 应用列表](https://console.bce.baidu.com/ai/?fromai=1#/ai/antiporn/app/list) 创建应用后获取；
 2. 百度有默认审核策略，如果误杀严重，请进入 [内容审核平台创建自定义规则](https://ai.baidu.com/censoring#/strategylist) 进行修改策略；
 
-## WordPress 插件
+## 其他系统
 
-> 在WordPress中可以直接使用插件，过滤验证评论内容。https://github.com/sy-records/wp-baidu-textcensor
+* WordPress 插件
+
+项目地址：https://github.com/sy-records/wp-baidu-textcensor
+
+* Typecho 插件
+
+项目地址：https://github.com/sy-records/BaiduTextcensor
 
 ## License
 
