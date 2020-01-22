@@ -44,7 +44,7 @@ var_dump($res);
 
 * Typecho 插件
 
-项目地址：https://github.com/sy-records/BaiduTextcensor
+项目地址：https://github.com/sy-records/ty-baidu-textcensor
 
 ## License
 
